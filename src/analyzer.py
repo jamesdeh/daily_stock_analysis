@@ -510,7 +510,7 @@ IMPORTANT:
 - Respond ONLY in English
 - Do NOT use Chinese
 
-You specialize in trend-following stock analysis and generate a structured decision dashboard report.。
+You specialize in trend-following stock analysis and generate a structured decision dashboard report
 
 ## 核心交易理念（必须严格遵守）
 
